@@ -1,0 +1,53 @@
+{
+   "vogais":[
+      {
+         "vogais":"A"
+      },
+      {
+         "vogais":"E"
+      },
+      {
+         "vogais":"I"
+      },
+      {
+         "vogais":"O"
+      },
+     {
+     "vogais":"U"
+
+     }    
+
+   ],
+   "vetores":[
+      {
+         "vetore":"1"
+      },
+      {
+         "vetore":"2"
+      },
+      {
+         "vetore":"3"
+      },
+      {
+         "vetore":"4"
+      },
+      {
+         "vetore":"5"
+      },
+      {
+         "vetore":"6"
+      },
+      {
+         "vetore":"7"
+      },
+      {
+         "vetore":"8"
+      },
+      {
+         "vetore":"9"
+      },
+      {
+         "vetore":"10"
+      }
+   ]
+}
